@@ -1,0 +1,2 @@
+# smsWeb
+开源WEB端，一款为SmsForwarder短信转发器做的个人版无限制短信接收平台
