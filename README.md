@@ -1,5 +1,5 @@
 # smsWeb
-开源WEB端，一款为SmsForwarder短信转发器[开源软件]做的个人版无限制短信接收平台
+开源WEB端，一款为SmsForwarder短信转发器[开源软件]做的个人版无限制短信接收与发送平台
 
 https://github.com/pppscn/SmsForwarder
 
