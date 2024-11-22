@@ -22,6 +22,12 @@ https://github.com/pppscn/SmsForwarder
 6.未来开放：支持网页端发送回复短信
 ![微信图片_20241122005506](https://github.com/user-attachments/assets/16519a0b-c46e-40b0-abd5-abaf27cb0544)
 
+7.小程序端已开发完成支持收短信 发短信
+![e30347d12c6e8dc7031ac8f361d4773](https://github.com/user-attachments/assets/d9661e00-cde8-45b9-bb56-a14cb78b01b1)
+![dc0b2ce7b9679d959f1bfc81ebbe252](https://github.com/user-attachments/assets/36b0d11e-abaf-402d-9376-f715b775d8a8)
+
+
+
 联系作者：
 
 ![微信图片编辑_20230828002124](https://github.com/user-attachments/assets/e7f76517-ca61-4bcd-aa28-0f581c26c6f2)
